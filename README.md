@@ -1,7 +1,7 @@
 # ¡Hola! Soy Andrés Borja Duro 👋
 
 - 📚 Actualmente estoy estudiando **Doble Grado en Ingeniería Informática y Matemáticas**.
-- 📫 Puedes contactarme en: [LinkedIn]({www.linkedin.com/in/andrés-b-15bab835b)
+- 📫 Puedes contactarme en: [LinkedIn]({www.linkedin.com/in/andrés-b-15bab835b})
 
 ### 🛠️ Lenguajes y Herramientas
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
