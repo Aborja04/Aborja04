@@ -10,8 +10,3 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 📊 Mis Estadísticas
-![Estadísticas de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=aborja04&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=aborja04&layout=compact&theme=tokyonight)
