@@ -1,6 +1,6 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Andrés Borja Duro 👋
 
-- 📚 Actualmente estoy estudiando **[Doble Grado en Ingeniería Informática y Matemáticas]**.
+- 📚 Actualmente estoy estudiando **Doble Grado en Ingeniería Informática y Matemáticas**.
 - 📫 Puedes contactarme en: [LinkedIn]({www.linkedin.com/in/andrés-b-15bab835b)
 
 ### 🛠️ Lenguajes y Herramientas
