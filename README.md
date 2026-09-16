@@ -13,5 +13,5 @@
 ---
 
 ### 📊 Mis Estadísticas
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Aborja04&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=aborja04&theme=tokyonight)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Aborja04&layout=compact&theme=tokyonight)
